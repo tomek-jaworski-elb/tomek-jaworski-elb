@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Java
 - 📫 More about me you can find on [LinkedIn](https://www.linkedin.com/in/tomek-jaworski-158494226/) 
 - Don't hesitate to contact me 
+- I am currently undergoing an intensive Java, Spring and Spring-Boot course (planned completion in July 2022)
+- Yes, I'm looking aj job 
 
 <!---
 tomek-jaworski-elb/tomek-jaworski-elb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
